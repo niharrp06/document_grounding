@@ -1,0 +1,25 @@
+{
+  "tables": [
+    {
+      "table_id": "table_0",
+      "page": 0,
+      "headers": ["Description", "Amount"],
+      "rows": [
+        {
+          "row_index": 0,
+          "cells": [
+            {"text": "Consulting", "box": [100, 180, 260, 210]},
+            {"text": "7000", "box": [300, 180, 380, 210]}
+          ]
+        },
+        {
+          "row_index": 1,
+          "cells": [
+            {"text": "Support", "box": [100, 220, 260, 250]},
+            {"text": "5000", "box": [300, 220, 380, 250]}
+          ]
+        }
+      ]
+    }
+  ]
+}

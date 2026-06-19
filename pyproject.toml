@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "docuxray"
+version = "0.1.0"
+description = "Locate requested document fields with graph-based document grounding."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "Pillow>=10.0",
+]
+
+[project.optional-dependencies]
+ocr = [
+  "paddleocr>=2.7,<3.0; python_version < '3.14'",
+  "paddlepaddle>=2.6; python_version < '3.14'",
+]
+ml = [
+  "accelerate>=0.30; python_version < '3.14'",
+  "torch>=2.2; python_version < '3.14'",
+  "transformers>=4.40; python_version < '3.14'",
+]
+dev = [
+  "pytest>=8.0",
+]
+all = [
+  "docuxray[ocr,ml,dev]",
+]
+
+[project.scripts]
+docuxray = "docuxray.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

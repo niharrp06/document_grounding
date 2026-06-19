@@ -1,0 +1,316 @@
+{
+  "words": [
+    {
+      "id": "w0",
+      "text": "ACME SERVICES",
+      "box": [
+        59,
+        46,
+        342,
+        71
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w1",
+      "text": "Invoice No:",
+      "box": [
+        60,
+        104,
+        150,
+        117
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w2",
+      "text": "INV-1001",
+      "box": [
+        180,
+        104,
+        256,
+        117
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w3",
+      "text": "Date:",
+      "box": [
+        60,
+        134,
+        103,
+        147
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w4",
+      "text": "2026-06-08",
+      "box": [
+        180,
+        134,
+        272,
+        147
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w5",
+      "text": "Bill To:",
+      "box": [
+        60,
+        164,
+        115,
+        177
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w6",
+      "text": "Nihar Pathak",
+      "box": [
+        180,
+        164,
+        284,
+        177
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w7",
+      "text": "Description",
+      "box": [
+        72,
+        248,
+        171,
+        267
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w8",
+      "text": "Qty",
+      "box": [
+        352,
+        248,
+        384,
+        267
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w9",
+      "text": "Amount",
+      "box": [
+        471,
+        248,
+        541,
+        263
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w10",
+      "text": "Tax",
+      "box": [
+        632,
+        248,
+        665,
+        263
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w11",
+      "text": "Consulting",
+      "box": [
+        72,
+        296,
+        157,
+        313
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w12",
+      "text": "2",
+      "box": [
+        352,
+        296,
+        362,
+        309
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w13",
+      "text": "7000",
+      "box": [
+        472,
+        296,
+        512,
+        309
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w14",
+      "text": "1260",
+      "box": [
+        632,
+        296,
+        672,
+        309
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w15",
+      "text": "Support",
+      "box": [
+        72,
+        344,
+        135,
+        361
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w16",
+      "text": "1",
+      "box": [
+        352,
+        344,
+        362,
+        357
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w17",
+      "text": "5000",
+      "box": [
+        472,
+        344,
+        512,
+        357
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w18",
+      "text": "900",
+      "box": [
+        632,
+        344,
+        662,
+        357
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w19",
+      "text": "Deployment",
+      "box": [
+        72,
+        392,
+        168,
+        409
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w20",
+      "text": "1",
+      "box": [
+        352,
+        392,
+        362,
+        405
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w21",
+      "text": "5000",
+      "box": [
+        472,
+        392,
+        512,
+        405
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w22",
+      "text": "900",
+      "box": [
+        632,
+        392,
+        662,
+        405
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w23",
+      "text": "Total Amount:",
+      "box": [
+        440,
+        434,
+        552,
+        447
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w24",
+      "text": "17000",
+      "box": [
+        610,
+        434,
+        660,
+        447
+      ],
+      "confidence": 0.99,
+      "page": 0
+    },
+    {
+      "id": "w25",
+      "text": "Note: Amount appears more than once. Row index disambiguates the target.",
+      "box": [
+        60,
+        503,
+        599,
+        518
+      ],
+      "confidence": 0.99,
+      "page": 0
+    }
+  ]
+}

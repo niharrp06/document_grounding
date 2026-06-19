@@ -1,0 +1,10 @@
+{
+  "fields": [
+    {
+      "field_id": "amount_row_1",
+      "key": "Amount",
+      "value": "5000",
+      "row_index": 1
+    }
+  ]
+}
